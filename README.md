@@ -9,3 +9,5 @@ Implement from scratch an RBM and apply it to DSET3. The RBM should be implement
 3. Train a simple classifier (e.g. any simple classifier in scikit) to recognize the MNIST digits using as inputs their encoding obtained at step 2. Use the standard training/test split. Show a performance metric of your choice in the presentation/handou
 
 DSET3 (Image processing: MNIST): http://yann.lecun.com/exdb/mnist/
+
+[report.pdf](https://github.com/jacons/R.-Boltzmann-machine-Py-Cpp/files/8490973/report.pdf)
